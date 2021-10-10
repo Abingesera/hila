@@ -13,7 +13,6 @@
 		E6AB15A4271264ED00E0D414 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6AB1460271264EC00E0D414 /* Assets.xcassets */; };
 		E6AB15A5271264ED00E0D414 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6AB1461271264EC00E0D414 /* LaunchScreen.storyboard */; };
 		E6AB15A6271264ED00E0D414 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E6AB1463271264EC00E0D414 /* Main.storyboard */; };
-		E6AB15A7271264ED00E0D414 /* DefaultMarket.plist in Resources */ = {isa = PBXBuildFile; fileRef = E6AB1465271264EC00E0D414 /* DefaultMarket.plist */; };
 		E6AB15B5271264ED00E0D414 /* MJPropertyType.m in Sources */ = {isa = PBXBuildFile; fileRef = E6AB1489271264EC00E0D414 /* MJPropertyType.m */; };
 		E6AB15B6271264ED00E0D414 /* NSObject+MJKeyValue.m in Sources */ = {isa = PBXBuildFile; fileRef = E6AB148C271264EC00E0D414 /* NSObject+MJKeyValue.m */; };
 		E6AB15B7271264ED00E0D414 /* MJProperty.m in Sources */ = {isa = PBXBuildFile; fileRef = E6AB148D271264EC00E0D414 /* MJProperty.m */; };
@@ -162,7 +161,6 @@
 		E6AB1460271264EC00E0D414 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E6AB1462271264EC00E0D414 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E6AB1464271264EC00E0D414 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E6AB1465271264EC00E0D414 /* DefaultMarket.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DefaultMarket.plist; sourceTree = "<group>"; };
 		E6AB1486271264EC00E0D414 /* MJPropertyKey.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJPropertyKey.h; sourceTree = "<group>"; };
 		E6AB1487271264EC00E0D414 /* NSObject+MJClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+MJClass.h"; sourceTree = "<group>"; };
 		E6AB1488271264EC00E0D414 /* NSString+MJExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+MJExtension.h"; sourceTree = "<group>"; };
@@ -469,7 +467,6 @@
 				E6AB1460271264EC00E0D414 /* Assets.xcassets */,
 				E6AB1461271264EC00E0D414 /* LaunchScreen.storyboard */,
 				E6AB1463271264EC00E0D414 /* Main.storyboard */,
-				E6AB1465271264EC00E0D414 /* DefaultMarket.plist */,
 				E6AB1466271264EC00E0D414 /* Libs */,
 				E6AB155B271264ED00E0D414 /* main.m */,
 				E6AB155C271264ED00E0D414 /* Class */,
@@ -1362,7 +1359,6 @@
 			files = (
 				E6AB15A5271264ED00E0D414 /* LaunchScreen.storyboard in Resources */,
 				E6AB15C3271264ED00E0D414 /* MJRefresh.bundle in Resources */,
-				E6AB15A7271264ED00E0D414 /* DefaultMarket.plist in Resources */,
 				E6AB15A4271264ED00E0D414 /* Assets.xcassets in Resources */,
 				E6AB15A6271264ED00E0D414 /* Main.storyboard in Resources */,
 				E6AB161F271264EE00E0D414 /* Info.plist in Resources */,
